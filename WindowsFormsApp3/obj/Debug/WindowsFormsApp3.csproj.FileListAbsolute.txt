@@ -1,0 +1,59 @@
+C:\Users\TABLET\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\TABLET\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\TABLET\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\TABLET\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\TABLET\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\TABLET\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\TABLET\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\TABLET\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\TABLET\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\TABLET\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\TABLET\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\Tronax\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Tronax\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Tronax\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Tronax\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Tronax\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Tronax\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\Tronax\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Tronax\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Tronax\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Tronax\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Tronax\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Tronax\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+C:\Users\TABLET\Desktop\Nueva carpeta\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\TABLET\Desktop\Nueva carpeta\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\TABLET\Desktop\Nueva carpeta\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\TABLET\Desktop\Nueva carpeta\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\TABLET\Desktop\Nueva carpeta\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\TABLET\Desktop\Nueva carpeta\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\TABLET\Desktop\Nueva carpeta\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\TABLET\Desktop\Nueva carpeta\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\TABLET\Desktop\Nueva carpeta\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\TABLET\Desktop\Nueva carpeta\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\TABLET\Desktop\Nueva carpeta\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\TABLET\Desktop\Nueva carpeta\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+C:\Users\Marsico-PC\Desktop\Colegio\Programacion 6to\Policia Federal\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Marsico-PC\Desktop\Colegio\Programacion 6to\Policia Federal\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Marsico-PC\Desktop\Colegio\Programacion 6to\Policia Federal\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Marsico-PC\Desktop\Colegio\Programacion 6to\Policia Federal\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Marsico-PC\Desktop\Colegio\Programacion 6to\Policia Federal\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Marsico-PC\Desktop\Colegio\Programacion 6to\Policia Federal\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\Marsico-PC\Desktop\Colegio\Programacion 6to\Policia Federal\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+C:\Users\Marsico-PC\Desktop\Colegio\Programacion 6to\Policia Federal\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Marsico-PC\Desktop\Colegio\Programacion 6to\Policia Federal\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Marsico-PC\Desktop\Colegio\Programacion 6to\Policia Federal\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Marsico-PC\Desktop\Colegio\Programacion 6to\Policia Federal\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Marsico-PC\Desktop\Colegio\Programacion 6to\Policia Federal\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Tomas\source\repos\Policia Federal\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Tomas\source\repos\Policia Federal\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Tomas\source\repos\Policia Federal\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Tomas\source\repos\Policia Federal\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Tomas\source\repos\Policia Federal\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Tomas\source\repos\Policia Federal\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\Tomas\source\repos\Policia Federal\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+C:\Users\Tomas\source\repos\Policia Federal\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Tomas\source\repos\Policia Federal\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Tomas\source\repos\Policia Federal\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\source\repos\Policia Federal\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Tomas\source\repos\Policia Federal\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
